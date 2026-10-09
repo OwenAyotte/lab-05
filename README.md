@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Owen Ayotte`
-- **CCID:** `OAYOTTE`
+- **CCID:** `OTAYOTTE`
 
 ## References and Resources
 
